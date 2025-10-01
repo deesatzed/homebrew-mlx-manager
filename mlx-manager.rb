@@ -2,7 +2,7 @@ class MlxManager < Formula
   desc "Ollama-inspired MLX model manager with CLI and OpenAI-compatible API"
   homepage "https://github.com/deesatzed/mlx-manager"
   url "https://github.com/deesatzed/mlx-manager/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "476bd36d5a68fff144e1a3e057b225541be702c1b7f6795f1a5c1f1530589dbe"
   license "MIT"
 
   depends_on "python@3.11"
